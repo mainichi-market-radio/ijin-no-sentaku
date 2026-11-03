@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>serial</itunes:type>
-<item><title>第12回 杉原千畝「命令か、目の前の人か」</title>
+<item><title>第13回 トマス・モア「言わないことで、守ろうとした」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/14/</link><guid isPermaLink="false">ijin-no-sentaku-ep014</guid>
+<pubDate>Tue, 03 Nov 2026 18:14:00 +0900</pubDate><description><![CDATA[1534年、国王ヘンリー8世の継承法への宣誓を求められたトマス・モアは、継承そのものは認めながら宣誓文を拒み、具体的な理由は公には語りませんでした。言わないことで何が守れたのか、史料から分かることと分からないことを分けてたどります。かつて大法官として異端者に厳しく臨んだ側面にも触れます。
+
+ご注意：宗教対立と、処刑（斬首）・異端者の火刑に触れます。処刑の場面の描写は最小限にしています。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep014.mp3" length="4760598" type="audio/mpeg"/>
+<itunes:episode>13</itunes:episode><itunes:duration>595</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第12回 杉原千畝「命令か、目の前の人か」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/13/</link><guid isPermaLink="false">ijin-no-sentaku-ep013</guid>
 <pubDate>Mon, 02 Nov 2026 18:13:00 +0900</pubDate><description><![CDATA[1940年の夏、リトアニアの日本領事館に集まった難民に、杉原千畝は本国の条件に合わないまま通過ビザを書き続けました。けれど、この話は杉原一人では成り立ちません。オランダの名誉領事やソ連の判断など、別々の人の選択が重なった様子と、戦後の退職をめぐる二つの見方、救われた人数の諸説を、史料で確かめられる範囲でたどります。
 
