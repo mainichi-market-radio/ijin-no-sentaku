@@ -4,7 +4,7 @@
 <atom:link href="https://mainichi-market-radio.github.io/ijin-no-sentaku/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>serial</itunes:type>
+<itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
 <item><title>第13回 トマス・モア「言わないことで、守ろうとした」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/14/</link><guid isPermaLink="false">ijin-no-sentaku-ep014</guid>
 <pubDate>Tue, 03 Nov 2026 18:14:00 +0900</pubDate><description><![CDATA[1534年、国王ヘンリー8世の継承法への宣誓を求められたトマス・モアは、継承そのものは認めながら宣誓文を拒み、具体的な理由は公には語りませんでした。言わないことで何が守れたのか、史料から分かることと分からないことを分けてたどります。かつて大法官として異端者に厳しく臨んだ側面にも触れます。
