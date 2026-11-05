@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第14回 小栗上野介忠順「戦うべきだと言った、江戸城の評定」</title>
+<item><title>第15回 聖徳太子「なぜ太子は信じられたのか」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/16/</link><guid isPermaLink="false">ijin-no-sentaku-ep016</guid>
+<pubDate>Thu, 05 Nov 2026 18:16:00 +0900</pubDate><description><![CDATA[厩戸の由来、十人の訴えを聞いた豊聡耳、未来を知る力、慧思の生まれ変わり、黒駒の飛翔、片岡山の飢えた人。聖徳太子には不思議な伝説がたくさんあり、ゆかりの寺は日本中にあります。日本書紀、伝暦、親鸞の和讃、職人の太子講をたどり、なぜ太子は信仰されたのか、その狙いと人々の思いを考えます。実在をめぐる学説も両論を並べます。
+
+ご注意：仏教などの信仰を扱います。特定の信仰の優劣を述べる回ではありません。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep016.mp3" length="5790031" type="audio/mpeg"/>
+<itunes:episode>15</itunes:episode><itunes:duration>724</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第14回 小栗上野介忠順「戦うべきだと言った、江戸城の評定」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/15/</link><guid isPermaLink="false">ijin-no-sentaku-ep015</guid>
 <pubDate>Wed, 04 Nov 2026 18:15:00 +0900</pubDate><description><![CDATA[1868年、旧幕府の勘定奉行だった小栗上野介忠順は、江戸城の評定で徹底して戦うことを主張し、退けられました。その後、領地の権田村へ退き、新政府軍に捕らえられます。勝海舟とは反対の選択をした人は、何を守ろうとしたのか。2つの選択として考えます。
 
