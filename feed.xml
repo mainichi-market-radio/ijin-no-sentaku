@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第15回 聖徳太子「なぜ太子は信じられたのか」</title>
+<item><title>第16回 宇野千代「巨額の負債のあと、宇野千代は何を続けたのか」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/17/</link><guid isPermaLink="false">ijin-no-sentaku-ep017</guid>
+<pubDate>Fri, 06 Nov 2026 18:17:00 +0900</pubDate><description><![CDATA[作家・宇野千代は、服飾雑誌『スタイル』を出す出版社の創立者でもありました。資料によれば、会社は1959年に行き詰まり、巨額の負債が残ったとされます。土地や住まいを手放し、着物の仕事や執筆で返していったとされる日々を、残る資料の範囲でたどります。完済は1964年とされます。心の中は推測せず、何をしたかを追い、最後に問いを残します。
+
+ご注意：倒産・負債・返済の経緯は辞典類になく、読み物や自治体の紹介など二次資料に基づくため、断定せず「〜とされる」で語ります。本人の心情は書きません。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep017.mp3" length="5622012" type="audio/mpeg"/>
+<itunes:episode>16</itunes:episode><itunes:duration>703</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第15回 聖徳太子「なぜ太子は信じられたのか」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/16/</link><guid isPermaLink="false">ijin-no-sentaku-ep016</guid>
 <pubDate>Thu, 05 Nov 2026 18:16:00 +0900</pubDate><description><![CDATA[厩戸の由来、十人の訴えを聞いた豊聡耳、未来を知る力、慧思の生まれ変わり、黒駒の飛翔、片岡山の飢えた人。聖徳太子には不思議な伝説がたくさんあり、ゆかりの寺は日本中にあります。日本書紀、伝暦、親鸞の和讃、職人の太子講をたどり、なぜ太子は信仰されたのか、その狙いと人々の思いを考えます。実在をめぐる学説も両論を並べます。
 
