@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第22回 ガリレオ・ガリレイ「「それでも」と言ったのか、誓ったのか」</title>
+<item><title>第23回 福沢諭吉「上野で戦いのあった日、塾はどうしたのか」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/24/</link><guid isPermaLink="false">ijin-no-sentaku-ep024</guid>
+<pubDate>Sat, 14 Nov 2026 18:24:00 +0900</pubDate><description><![CDATA[1868年7月4日、上野で新政府軍と彰義隊が戦った日。芝の慶應義塾では、いつもの時間割どおり経済書の授業が行われたと語り継がれています。23歳で塾を開き、『西洋事情』を著し、『学問のすゝめ』の初編は本人の試算で偽版を含め約22万冊、人口で割ると約160人に1冊という規模になった福沢諭吉は、この日をどう語ったのか。本人の言葉と、のちの語られ方をたどります。
+
+ご注意：戦闘（戦争）の話題に触れます。台本の心情は史料に基づく解釈で、想像の部分は「想像だが」と明示しています。この逸話は賛美にも批判にも寄せず、両方の見方を紹介します。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep024.mp3" length="4473460" type="audio/mpeg"/>
+<itunes:episode>23</itunes:episode><itunes:duration>559</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第22回 ガリレオ・ガリレイ「「それでも」と言ったのか、誓ったのか」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/23/</link><guid isPermaLink="false">ijin-no-sentaku-ep023</guid>
 <pubDate>Fri, 13 Nov 2026 18:23:00 +0900</pubDate><description><![CDATA[「それでも地球は動いている」という有名な言葉は、本当にガリレオが言ったのでしょうか。確認できる最古の印刷は1757年で、本人が言った証拠はありません。この俗説をほどいたうえで、約20倍の望遠鏡で月の山や木星の衛星を見つけた人が、1633年6月22日、ローマの異端審問で地動説を放棄する誓いを読み上げ、署名した場面をたどります。
 
