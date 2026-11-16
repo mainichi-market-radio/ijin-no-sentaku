@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第25回 渋沢栄一「予算をめぐる争いのあと、役所を出て銀行へ」</title>
+<item><title>第26回 ジェンスン・フアン「GPUに賭けた日々、二つの分かれ道」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/27/</link><guid isPermaLink="false">ijin-no-sentaku-ep027</guid>
+<pubDate>Tue, 17 Nov 2026 18:27:00 +0900</pubDate><description><![CDATA[ゲームの絵を描くための部品だったGPUを、世界のAIの土台にまで育てた会社、NVIDIA。その共同創業者ジェンスン・フアンには、資金が尽きかけたと本人が語る1990年代半ばと、利益を削ってゲーム以外の計算にも賭けた2006年ごろという、二つの分かれ道がありました。この選択を追いながら、高い利益率でも競合が簡単には追いつけない理由としてのCUDAの壁、「本当に一人で会社を動かしているのか」という疑問に言える範囲で答え、輸出規制や独占禁止法をめぐる話にも触れます。最後に、2026年11月12日に会社が発表した本人の社長・CEO辞任と、その後の局面を、発表で分かっている範囲でお伝えします。
+
+ご注意：存命の実業家を扱います。本人の内心や会話は史料にないため描かず、本人が後年に語った言葉は、報じられた範囲で伝聞として紹介します。経営への評価や批判は、出典のある範囲にとどめ、投資の助言ではありません。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep027.mp3" length="6868157" type="audio/mpeg"/>
+<itunes:episode>26</itunes:episode><itunes:duration>858</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第25回 渋沢栄一「予算をめぐる争いのあと、役所を出て銀行へ」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/26/</link><guid isPermaLink="false">ijin-no-sentaku-ep026</guid>
 <pubDate>Mon, 16 Nov 2026 18:26:00 +0900</pubDate><description><![CDATA[1873年、予算をめぐる争いの末に大蔵省を去り、およそ四週間後には第一国立銀行の創立総会に臨んだ渋沢栄一。辞表から銀行の創立までに何が起きたのかをたどります。官を去ることは、何かを捨てることだったのでしょうか。
 
