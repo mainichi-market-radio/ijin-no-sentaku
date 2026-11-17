@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第26回 ジェンスン・フアン「GPUに賭けた日々、二つの分かれ道」</title>
+<item><title>第27回 フローレンス・ナイチンゲール「ランプの貴婦人は、帰国のあと数字を並べた」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/28/</link><guid isPermaLink="false">ijin-no-sentaku-ep028</guid>
+<pubDate>Wed, 18 Nov 2026 18:28:00 +0900</pubDate><description><![CDATA[1854年、クリミア戦争の負傷兵を看護するため、38人の看護師とともにスクタリの病院へ向かったフローレンス・ナイチンゲール。「ランプの貴婦人」として知られる一方、病院の死亡率が下がった理由は、彼女一人の手柄とは言い切れません。帰国後に彼女が選んだのは、見聞きしたことを統計の図表にして示すことでした。確かめられる範囲の事実と、神話の部分を分けてたどります。
+
+ご注意：戦争・傷病・死亡を扱います。死亡率などの数字は、出典によって定義や数値が異なるため、断定を避けて紹介します。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep028.mp3" length="4303768" type="audio/mpeg"/>
+<itunes:episode>27</itunes:episode><itunes:duration>538</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第26回 ジェンスン・フアン「GPUに賭けた日々、二つの分かれ道」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/27/</link><guid isPermaLink="false">ijin-no-sentaku-ep027</guid>
 <pubDate>Tue, 17 Nov 2026 18:27:00 +0900</pubDate><description><![CDATA[ゲームの絵を描くための部品だったGPUを、世界のAIの土台にまで育てた会社、NVIDIA。その共同創業者ジェンスン・フアンには、資金が尽きかけたと本人が語る1990年代半ばと、利益を削ってゲーム以外の計算にも賭けた2006年ごろという、二つの分かれ道がありました。この選択を追いながら、高い利益率でも競合が簡単には追いつけない理由としてのCUDAの壁、「本当に一人で会社を動かしているのか」という疑問に言える範囲で答え、輸出規制や独占禁止法をめぐる話にも触れます。最後に、2026年11月12日に会社が発表した本人の社長・CEO辞任と、その後の局面を、発表で分かっている範囲でお伝えします。
 
