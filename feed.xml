@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第27回 フローレンス・ナイチンゲール「ランプの貴婦人は、帰国のあと数字を並べた」</title>
+<item><title>第28回 津田梅子「帰ってきた少女は、国の外に学校をつくった」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/29/</link><guid isPermaLink="false">ijin-no-sentaku-ep029</guid>
+<pubDate>Thu, 19 Nov 2026 18:29:00 +0900</pubDate><description><![CDATA[1871年、数え年8歳で岩倉使節団に同行し、アメリカへ渡った津田梅子。11年後に帰国した彼女は、すぐに道が開けたわけではありませんでした。のちに再びアメリカで学び、1900年に女子英学塾をひらきます。確かめられた範囲の事実と、今回確かめられなかった本人の気持ちの部分を分けて、その選択をたどります。
+
+ご注意：差別や社会の通念に触れる場面があります。本人の心情は今回確かめた範囲では断定できないため、断定を避けて紹介します。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep029.mp3" length="3314459" type="audio/mpeg"/>
+<itunes:episode>28</itunes:episode><itunes:duration>414</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第27回 フローレンス・ナイチンゲール「ランプの貴婦人は、帰国のあと数字を並べた」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/28/</link><guid isPermaLink="false">ijin-no-sentaku-ep028</guid>
 <pubDate>Wed, 18 Nov 2026 18:28:00 +0900</pubDate><description><![CDATA[1854年、クリミア戦争の負傷兵を看護するため、38人の看護師とともにスクタリの病院へ向かったフローレンス・ナイチンゲール。「ランプの貴婦人」として知られる一方、病院の死亡率が下がった理由は、彼女一人の手柄とは言い切れません。帰国後に彼女が選んだのは、見聞きしたことを統計の図表にして示すことでした。確かめられる範囲の事実と、神話の部分を分けてたどります。
 
