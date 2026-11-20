@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第29回 ソクラテス「夜明けの牢で、逃げるよう勧められて」</title>
+<item><title>第30回 北里柴三郎「研究する場所がなかった帰国者と、私立の研究所」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/31/</link><guid isPermaLink="false">ijin-no-sentaku-ep031</guid>
+<pubDate>Sat, 21 Nov 2026 18:31:00 +0900</pubDate><description><![CDATA[1892年、ドイツのコッホのもとでの留学を終えて帰国した北里柴三郎。国の研究施設はすぐには整わず、研究できる場所がありませんでした。そのとき福沢諭吉らが土地と資金を用意し、同じ年に私立の伝染病研究所が生まれます。福沢の支援がその後も続いた経過をたどります。
+
+ご注意：伝染病の研究を扱います。北里本人の気持ちは記録を確かめられていないため、断定しません。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep031.mp3" length="4907510" type="audio/mpeg"/>
+<itunes:episode>30</itunes:episode><itunes:duration>613</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第29回 ソクラテス「夜明けの牢で、逃げるよう勧められて」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/30/</link><guid isPermaLink="false">ijin-no-sentaku-ep030</guid>
 <pubDate>Fri, 20 Nov 2026 18:30:00 +0900</pubDate><description><![CDATA[紀元前399年、アテナイの法廷で有罪とされ、死刑を言いわたされたソクラテス。残された記録は、本人ではなく、プラトンやクセノフォンなど弟子たちが書いたものが中心です。どこまでが確かな事実で、どこからが弟子の描いた姿なのか。それを分けながら、この裁判と最期の選択をたどります。
 
