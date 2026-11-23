@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第31回 チャールズ・ダーウィン「ダーウィンの危機――同じ進化論を考えた、もう一人の男」</title>
+<item><title>第33回 ジョージ・ワシントン「ワシントンは、なぜ勝利のあとに権力を手放したのか」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/34/</link><guid isPermaLink="false">ijin-no-sentaku-ep034</guid>
+<pubDate>Tue, 24 Nov 2026 18:34:00 +0900</pubDate><description><![CDATA[アメリカ独立戦争を勝利に導いた司令官ジョージ・ワシントン。1783年12月23日、彼はアナポリスの議会で、軍を指揮する権限を示す委任状を返しました。軍に不満がたまり、王になる案まで届いていた中で、なぜ彼は権限を手放したのか。残された手紙と演説の一節から、その日をたどります。
+
+ご注意：歴史上の出来事と本人の手紙・演説の一節に基づき、物語として再構成した話です。会話は案内役の二人の創作で、ワシントン本人の言葉は演説と手紙の一節（日本語訳つき）のみです。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep034.mp3" length="5947184" type="audio/mpeg"/>
+<itunes:episode>33</itunes:episode><itunes:duration>743</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第31回 チャールズ・ダーウィン「ダーウィンの危機――同じ進化論を考えた、もう一人の男」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/32/</link><guid isPermaLink="false">ijin-no-sentaku-ep032</guid>
 <pubDate>Sun, 22 Nov 2026 18:32:00 +0900</pubDate><description><![CDATA[1858年6月、20年近く温めてきた自然選択の考えとほぼ同じ内容の論文が、東南アジアのウォレスから届きます。自分が先に考えた証拠はある。けれど、相手の論文を見たあとで発表すれば、公正でないと思われるかもしれない。その葛藤の中、友人のライエルとフッカーが二人の研究を一緒に発表する道を選びました。「発見は誰のものになるのか」を考える1858年の夏の話です。
 
