@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第33回 ジョージ・ワシントン「ワシントンは、なぜ勝利のあとに権力を手放したのか」</title>
+<item><title>第34回 北条政子「北条政子の演説は、本当に本人が語ったのか？」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/35/</link><guid isPermaLink="false">ijin-no-sentaku-ep035</guid>
+<pubDate>Wed, 25 Nov 2026 18:35:00 +0900</pubDate><description><![CDATA[1221年、後鳥羽上皇が北条義時を討てと命じ、鎌倉の御家人は動揺しました。北条政子の呼びかけは、『吾妻鏡』では安達景盛を通して伝えられ、『承久記』では本人が語る形です。『吾妻鏡』は乱の70〜80年後の編纂で、「山よりも高く、海よりも深い」頼朝の恩を訴えた文章が残ります。ただし実際の発言と同じかは分かりません。分かることと分からないことを分けてたどります。
+
+ご注意：戦いの場面に触れますが、描写は最小限です。政子の心の中は記録にないため、断定を避けて紹介します。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep035.mp3" length="8361107" type="audio/mpeg"/>
+<itunes:episode>34</itunes:episode><itunes:duration>1045</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第33回 ジョージ・ワシントン「ワシントンは、なぜ勝利のあとに権力を手放したのか」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/34/</link><guid isPermaLink="false">ijin-no-sentaku-ep034</guid>
 <pubDate>Tue, 24 Nov 2026 18:34:00 +0900</pubDate><description><![CDATA[アメリカ独立戦争を勝利に導いた司令官ジョージ・ワシントン。1783年12月23日、彼はアナポリスの議会で、軍を指揮する権限を示す委任状を返しました。軍に不満がたまり、王になる案まで届いていた中で、なぜ彼は権限を手放したのか。残された手紙と演説の一節から、その日をたどります。
 
