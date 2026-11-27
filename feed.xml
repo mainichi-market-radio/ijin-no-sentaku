@@ -5,7 +5,17 @@
 <description><![CDATA[歴史上の人物が、迷い、選び、行動し、その選択が運命をどう変えたのか。人物が置かれた状況、欲望、恐れ、信念、そして結果を、案内役のカズキと問い役のリサの掛け合いで物語としてたどる音声番組です。歴史が得意でなくても大丈夫。物語を追ううちに、その時代のことも自然に分かってきます。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/ijin-no-sentaku/cover.jpg"/><itunes:category text="History"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>第34回 北条政子「北条政子の演説は、本当に本人が語ったのか？」</title>
+<item><title>第36回 緒方洪庵「大坂に開いた学びの場、適塾」</title>
+<link>https://ijin-no-sentaku.pages.dev/ep/37/</link><guid isPermaLink="false">ijin-no-sentaku-ep037</guid>
+<pubDate>Fri, 27 Nov 2026 18:37:00 +0900</pubDate><description><![CDATA[1838年、大坂で医業を開き、同じ年に蘭学の塾も開いた緒方洪庵。その塾、適塾には全国から人が集まり、会読の成績で席次や級が決まりました。福沢諭吉らが学んだ一方、「身分を問わず入れた」とまでは断定できません。確認できる史実と、分かっていない本人の気持ちを分けて、学ぶ場をつくるという選択をたどります。
+
+ご注意：本人の動機や心情を語る確かな記録は見つかっていないため、断定を避けて紹介します。
+
+台本は、史料や研究をもとにAIが作成し、史実の確認と表現の審査を経て、AI音声で読み上げています。
+登場するカズキとリサは架空の人物です。実在の人物の声や話し方をまねたものではありません。
+史料から分からないこと（人物の心の中など）は断定せず、研究者の間で見方が分かれている点はそのように紹介しています。]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/ijin-no-sentaku/episodes/ep037.mp3" length="6125234" type="audio/mpeg"/>
+<itunes:episode>36</itunes:episode><itunes:duration>766</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>第34回 北条政子「北条政子の演説は、本当に本人が語ったのか？」</title>
 <link>https://ijin-no-sentaku.pages.dev/ep/35/</link><guid isPermaLink="false">ijin-no-sentaku-ep035</guid>
 <pubDate>Wed, 25 Nov 2026 18:35:00 +0900</pubDate><description><![CDATA[1221年、後鳥羽上皇が北条義時を討てと命じ、鎌倉の御家人は動揺しました。北条政子の呼びかけは、『吾妻鏡』では安達景盛を通して伝えられ、『承久記』では本人が語る形です。『吾妻鏡』は乱の70〜80年後の編纂で、「山よりも高く、海よりも深い」頼朝の恩を訴えた文章が残ります。ただし実際の発言と同じかは分かりません。分かることと分からないことを分けてたどります。
 
